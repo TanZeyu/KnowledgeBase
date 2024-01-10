@@ -8,9 +8,9 @@ when the ongoing learning are finished, they will be included in the knowledge b
 | Task | Starting time| Due Time |
 | -- | -- | -- |
 | Meta Front-End Developer Professional Certificate | 1/8/2024 | 1/12/2024 |
-<!-- | -- | -- | -- | -->
+| personal website | 1/10/24 | 1/20/24 |
 
-# Knowledge base
+# Finished project or learning
 
 # Ongoing learning
 ## Front End
